@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+h1 {
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+    margin-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+#mainHeading {
+    color:red;
+}
+.funParagraph {
+    color: green;
+}
+p {
+    padding-bottom:50px;
+}
+.blue-header {
+    color: rgb(35, 87, 142);
+ }
+ #blueHeader {
+    color: rgb(35, 87, 142);
+ }
+body {
+    margin: 8px;
+    display: block;
+}
